@@ -2,7 +2,7 @@ const translations = {
   uz: {
     navServices:"Xizmatlar",navProjects:"Loyihalar",navAbout:"Biz haqimizda",navContact:"Aloqa",
     eyebrow:"Yangi avlod raqamli yechimlari",heroTitle:'Kelajakni <span class="gradient-text">aqlli</span> yechimlar bilan yarating.',
-    heroDescription:"Inferiq — g‘oyalarni foydali raqamli mahsulotlarga aylantiradigan AI, bot va veb-texnologiyalar jamoasi.",
+    heroDescription:"Inferiq — O‘zbekistonda sun’iy intellekt yechimlari, Telegram botlar va zamonaviy veb-saytlar yaratishga yo‘naltirilgan texnologik brend.",
     exploreProjects:"Loyihalarni ko‘rish",contactUs:"Biz bilan bog‘lanish",heroProof:"G‘oyadan ishlaydigan mahsulotgacha",
     coreTitle:"G‘oyalar. Tizimlar. Natija.",coreSubtitle:"Texnologiya bilan oldinga.",floatAi:"Aqlli avtomatlashtirish",floatWeb:"Raqamli tajribalar",scroll:"Pastga aylantiring",
     servicesEyebrow:"NIMALAR QILAMIZ",servicesTitle:'G‘oyangiz uchun <span class="gradient-text">to‘g‘ri texnologiya.</span>',servicesIntro:"Biz texnologiyani murakkablik uchun emas, aniq natija uchun ishlatamiz.",
@@ -22,7 +22,7 @@ const translations = {
   ru: {
     navServices:"Услуги",navProjects:"Проекты",navAbout:"О нас",navContact:"Контакты",
     eyebrow:"Цифровые решения нового поколения",heroTitle:'Создавайте будущее с <span class="gradient-text">умными</span> решениями.',
-    heroDescription:"Inferiq — команда AI-, бот- и веб-технологий, превращающая идеи в полезные цифровые продукты.",
+    heroDescription:"Inferiq — технологический бренд из Узбекистана, создающий решения на основе искусственного интеллекта, Telegram-боты и современные веб-сайты.",
     exploreProjects:"Смотреть проекты",contactUs:"Связаться с нами",heroProof:"От идеи до работающего продукта",
     coreTitle:"Идеи. Системы. Результат.",coreSubtitle:"Двигаемся вперёд с технологиями.",floatAi:"Умная автоматизация",floatWeb:"Цифровые решения",scroll:"Прокрутите вниз",
     servicesEyebrow:"ЧТО МЫ ДЕЛАЕМ",servicesTitle:'Подходящая технология <span class="gradient-text">для вашей идеи.</span>',servicesIntro:"Мы используем технологии ради конкретного результата, а не ради сложности.",
@@ -42,7 +42,7 @@ const translations = {
   en: {
     navServices:"Services",navProjects:"Projects",navAbout:"About",navContact:"Contact",
     eyebrow:"Next-generation digital solutions",heroTitle:'Build the future with <span class="gradient-text">intelligent</span> solutions.',
-    heroDescription:"Inferiq is an AI, bot, and web technology team turning ideas into useful digital products.",
+    heroDescription:"Inferiq is a technology brand from Uzbekistan focused on AI solutions, Telegram bots, and modern website development.",
     exploreProjects:"Explore projects",contactUs:"Get in touch",heroProof:"From idea to working product",
     coreTitle:"Ideas. Systems. Results.",coreSubtitle:"Moving forward with technology.",floatAi:"Intelligent automation",floatWeb:"Digital experiences",scroll:"Scroll to explore",
     servicesEyebrow:"WHAT WE DO",servicesTitle:'The right technology <span class="gradient-text">for your idea.</span>',servicesIntro:"We use technology to deliver clear outcomes, not unnecessary complexity.",
